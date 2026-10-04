@@ -56,7 +56,7 @@ projects <- list(
 
 # ---------- Styling ----------
 css <- "
-:root{--ink:#10302F;--teal:#0F5257;--mist:#EEF4F2;--sun:#F0A500;--line:#C9D8D4;--paper:#FAFCFB}
+:root{--ink:#10302F;--teal:#0F5257;--mist:#EEF4F2;--sun:#F0A500;--line:#C9D8D4;--paper:#b4edde}
 html{scroll-behavior:smooth}
 body{background:var(--paper);color:var(--ink);font-family:'Literata',Georgia,serif;line-height:1.7;font-size:17px}
 h1,h2,h3,h4,.navbar,.btn,.chip,.tab-btn{font-family:'Bricolage Grotesque',system-ui,sans-serif}
